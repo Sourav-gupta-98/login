@@ -1,0 +1,55 @@
+body{
+  align-items: center;
+  background-color: white;
+}
+.msg{
+  background-color: #D9D7F1;
+  margin-bottom: 0px;
+  margin-left: 400px;
+  margin-right: 400px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 5px 0px #191A19;
+}
+h1{
+  font-family: 'Redressed', cursive;
+  color: #9A0680;
+}
+h3{
+  color: #DD4A48;
+}
+.main{
+  align-items: center;
+  background-color: #D9D7F1;
+  margin-top: 100px;
+  margin-left: 400px;
+  margin-right: 400px;
+  border-radius: 20px;
+  height: 300px;
+  box-shadow: 1px 1px 9px 0px #191A19;
+}
+
+span{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Redressed', cursive;
+  font-size: 20px;
+  color: #DD4A48;
+  cursor: pointer;
+}
+.form1{
+
+}
+input{
+  border-radius: 20px;
+  text-align: center;
+  border-style: none;
+  height: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Redressed', cursive;
+  font-family: 'Roboto', sans-serif;
+}
+input.hover{
+  cursor: pointer;
+}
+.submit{
+  cursor: pointer;
+}
